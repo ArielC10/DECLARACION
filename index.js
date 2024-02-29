@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Aqui tu le dices cualquier vaina, yo quite lo que tenia porque que verguenza ')
+    alert('Aqui tu le dices cualquier vaina, yo quite lo que tenia porque que verguenza')
 });
 
 const noBtn = document.querySelector('#noBtn');
